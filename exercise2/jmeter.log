@@ -1,0 +1,37 @@
+2024-05-14 22:33:55,883 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-05-14 22:33:55,922 INFO o.a.j.JMeter: Loading user properties from: /Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/bin/apache-jmeter/bin/user.properties
+2024-05-14 22:33:55,923 INFO o.a.j.JMeter: Loading system properties from: /Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/bin/apache-jmeter/bin/system.properties
+2024-05-14 22:33:55,934 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-05-14 22:33:55,934 INFO o.a.j.JMeter: Version 5.6.3
+2024-05-14 22:33:55,934 INFO o.a.j.JMeter: java.version=17.0.6
+2024-05-14 22:33:55,935 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2024-05-14 22:33:55,935 INFO o.a.j.JMeter: os.name=Mac OS X
+2024-05-14 22:33:55,935 INFO o.a.j.JMeter: os.arch=x86_64
+2024-05-14 22:33:55,935 INFO o.a.j.JMeter: os.version=12.6
+2024-05-14 22:33:55,935 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-05-14 22:33:55,935 INFO o.a.j.JMeter: java.awt.headless=null
+2024-05-14 22:33:55,936 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-05-14 22:33:55,936 INFO o.a.j.JMeter: Available Processors =8
+2024-05-14 22:33:55,965 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-05-14 22:33:55,966 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-05-14 22:33:55,966 INFO o.a.j.JMeter: JMeterHome=/Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/bin/apache-jmeter
+2024-05-14 22:33:55,966 INFO o.a.j.JMeter: user.dir  =/Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/exercisexxx
+2024-05-14 22:33:55,968 INFO o.a.j.JMeter: PWD       =/Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/exercisexxx
+2024-05-14 22:33:55,970 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: box.local FullName: localhost
+2024-05-14 22:33:55,988 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-05-14 22:33:56,485 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-05-14 22:33:59,154 INFO o.a.j.JMeterGuiLauncher: Loading file: stock_jmeter_closed.jmx
+2024-05-14 22:33:59,157 INFO o.a.j.s.FileServer: Default base='/Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/exercisexxx'
+2024-05-14 22:33:59,158 INFO o.a.j.s.FileServer: Set new base='/Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/exercisexxx'
+2024-05-14 22:33:59,403 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-05-14 22:33:59,428 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-05-14 22:33:59,432 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-05-14 22:33:59,434 INFO o.a.j.s.SaveService: Loading file: stock_jmeter_closed.jmx
+2024-05-14 22:33:59,463 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-05-14 22:33:59,480 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-14 22:33:59,480 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-14 22:33:59,480 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-14 22:33:59,480 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-05-14 22:33:59,480 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-05-14 22:33:59,481 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-05-14 22:33:59,527 INFO o.a.j.s.FileServer: Set new base='/Users/kirk/JavaPerformanceTuning/Workshops/peakit/peakit/exercisexxx'
